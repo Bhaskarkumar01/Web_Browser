@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cool_blue">#0091EA</color>
+    <color name="teal_700">#FF018786</color>
+<color name="purple_500">#a46ede</color>
+    <color name="cool_PINK">#F50057</color>
+    <color name="cool_green">#64DD17</color>
+    <color name="YELLOW">#FFD600</color>
+
+
+    <integer-array name="myColor">
+
+        <item>@color/cool_green</item>
+        <item>@color/cool_PINK</item>
+        <item>@color/black</item>
+        <item>@color/cool_blue</item>
+        <item>@color/purple_500</item>
+    </integer-array>
+
+
+</resources>

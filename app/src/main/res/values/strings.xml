@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="go_button">Go Button</string>
+    <string name="setting_btn">Setting Button</string>
+    <string name="search_hint">Search</string>
+
+
+    <string name="save">save</string>
+    <string name="homepage">homeage</string>
+    <string name="bookmark">Bookmaark</string>
+    <string name="desktop">desktop</string>
+
+    <string name="back">back</string>
+    <string name="forward">forward</string>
+    <string name="fullscreen">fullscreen</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bookmark_name">Bookmark_name</string>
+    <string name="view_all">View All</string>
+    <string name="all_bookmarks">ALL Bookmarks</string>
+    <string name="refresh">refresh button</string>
+    <string name="one">1</string>
+
+
+</resources>
